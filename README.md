@@ -29,7 +29,9 @@ C:\Users\SeuUsuario\Documents\PowerShell\Microsoft.PowerShell_profile.ps1
 
    ```powershell
    notepad $PROFILE
-   ou
+   ```
+   ou, para abrir no vscode:
+   ```powershell
    code $PROFILE
    ```
 
